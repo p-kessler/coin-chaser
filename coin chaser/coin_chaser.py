@@ -166,7 +166,7 @@ class CoinChaser:
             self.window.fill((255, 255, 255))
             self.window.blit(self.victory, (165, 200))
         else:
-            self.window.fill((100, 255, 255))
+            self.window.fill((206, 218, 237))
             self.window.blit(self.robot, (self.robot_x, self.robot_y))
             self.window.blit(self.coin, (self.coin_x, self.coin_y))
             self.window.blit(self.monster, (self.monster_x, self.monster_y))
