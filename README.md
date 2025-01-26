@@ -20,4 +20,5 @@ I created this game as my final project for the University of Helsinki Python MO
 - All images used in the game were provided by the course.
 
 
-
+### Screenshot of gameplay
+<img width="633" alt="coin_chaser" src="https://github.com/user-attachments/assets/a753968b-1ce8-4ba7-acf8-cbfc0cbc5e8e" />
